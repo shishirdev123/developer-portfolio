@@ -1,5 +1,6 @@
 body{
     font-family: 'Lobster', cursive;
+    margin: 0;
 }
 h1{
     font-size: 80px;
@@ -29,4 +30,8 @@ section{
     font-weight: 700;
     padding: 10px 30px;
     border-radius: 5px;
+}
+.top-banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
 }
